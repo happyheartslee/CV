@@ -1,3 +1,0 @@
-# CV
-My resume
-TESTING 
